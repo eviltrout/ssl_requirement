@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
     "README",
     "Rakefile",
     "VERSION",
-    "bartt-ssl_requirement.gemspec",
+    "eviltrout-ssl_requirement.gemspec",
     "init.rb",
     "lib/ssl_requirement.rb",
     "lib/url_for.rb",
